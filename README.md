@@ -22,3 +22,6 @@
 * 17-setUnionOfAnyAmountOfSets
 * 18-pairSum
 * 19-binarySearch
+
+![Slide6](https://user-images.githubusercontent.com/81392804/156001054-6b85605c-5503-4eaf-9d27-e02a4fd5d8e4.JPG)
+![Slide7](https://user-images.githubusercontent.com/81392804/156001057-1bcc0400-9010-4605-a766-f885d979e59d.JPG)
